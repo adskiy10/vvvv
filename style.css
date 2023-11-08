@@ -1,0 +1,27 @@
+h1{
+    color: darkmagenta;
+}
+
+#color{
+    color: aquamarine;
+}
+
+.color{
+    color: indigo;
+}
+
+.color.text{
+    color: salmon;
+}
+
+div>p{
+    color: orangered
+}
+
+body>p{
+    color: hotpink;
+    
+}
+#color1.color1{
+    color: royalblue;
+}
